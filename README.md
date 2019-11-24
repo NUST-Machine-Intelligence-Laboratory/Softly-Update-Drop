@@ -42,5 +42,14 @@ The code is currently tested only on GPU
        bash aircraft100_run.sh
        ```
 
-- Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification
-  - Chuanyi Zhang, Yazhou Yao, Huafeng Liu, Guo-Sen Xie, Xiangbo Shu, Tianfei Zhou, Zheng Zhang, Fumin Shen, Zhenmin Tang
+## Citation
+
+If you find this useful in your research, please consider citing:
+
+    @article{zhang2019soft,
+      title={Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification},
+      author={Chuanyi Zhang, Yazhou Yao, Huafeng Liu, Guo-Sen Xie, Xiangbo Shu, Tianfei Zhou, Zheng Zhang, Fumin Shen, Zhenmin Tang},
+      booktitle={AAAI Conference on Artificial Intelligence (AAAI)},
+      year={2019}
+    }
+

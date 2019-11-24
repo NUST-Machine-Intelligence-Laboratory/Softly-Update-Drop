@@ -1,9 +1,5 @@
 # Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification
 
-Introduction
-------------
-This is the source code for our paper **Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification**
-
 Network Architecture
 --------------------
 The architecture of our proposed peer-learning model is as follows
@@ -45,3 +41,6 @@ The code is currently tested only on GPU
        bash car196_run.sh
        bash aircraft100_run.sh
        ```
+
+- Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification
+  - Chuanyi Zhang, Yazhou Yao, Huafeng Liu, Guo-Sen Xie, Xiangbo Shu, Tianfei Zhou, Zheng Zhang, Fumin Shen, Zhenmin Tang

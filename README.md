@@ -46,10 +46,10 @@ The code is currently tested only on GPU
 
 If you find this useful in your research, please consider citing:
 
-    @article{zhang2019soft,
+    @article{zhang2020soft,
       title={Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification},
       author={Chuanyi Zhang, Yazhou Yao, Huafeng Liu, Guo-Sen Xie, Xiangbo Shu, Tianfei Zhou, Zheng Zhang, Fumin Shen, Zhenmin Tang},
       booktitle={AAAI Conference on Artificial Intelligence (AAAI)},
-      year={2019}
+      year={2020}
     }
 

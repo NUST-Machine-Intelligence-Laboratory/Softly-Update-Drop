@@ -42,6 +42,8 @@ The code is currently tested only on GPU
        bash aircraft100_run.sh
        ```
 
+![table](performance.png)
+
 ## Citation
 
 If you find this useful in your research, please consider citing:

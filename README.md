@@ -19,6 +19,7 @@ The code is currently tested only on GPU
     - Download data into project root directory and uncompress them using
         ```
 	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-bird.tar.gz
+	
 	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-car.tar.gz
 	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-aircraft.tar.gz
         tar -xvf web-bird.tar.gz

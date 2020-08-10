@@ -1,5 +1,8 @@
 # Web-Supervised Network with Softly Update-Drop Training for Fine-Grained Visual Classification
 
+An advanced verision of our work is available:
+https://github.com/NUST-Machine-Intelligence-Laboratory/Advanced-Softly-Update-Drop
+
 Network Architecture
 --------------------
 The architecture of our proposed model is as follows
@@ -15,9 +18,9 @@ The code is currently tested only on GPU
 * **Data Preparation**
     - Download data into project root directory and uncompress them using
         ```
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-bird.tar.gz
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-car.tar.gz
-        wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/web-aircraft.tar.gz
+	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-bird.tar.gz
+	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-car.tar.gz
+	wget https://wsnfg-sh.oss-cn-shanghai.aliyuncs.com/web-aircraft.tar.gz
         tar -xvf web-bird.tar.gz
         tar -xvf web-car.tar.gz
         tar -xvf aircraft-car.tar.gz
